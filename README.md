@@ -1,3 +1,5 @@
+[![Madhawa's GitHub Banner](./assets/banner.png)](https://www.linkedin.com/in/madhawamm/)
+
 ### Hello, I'm Madhawa 👋
 
 I'm a second-year undergraduate from Sri Lanka. Passionate in tech, scientific thinking and open source development.
