@@ -2,7 +2,7 @@
 
 ### Hello, I'm Madhawa 👋
 
-I'm a second-year undergraduate from Sri Lanka. Passionate in tech, scientific thinking and open source development.
+I'm a passionate second year undergraduate from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
 
 - 🌱 I’m currently learning Front-end Frameworks
 - 👯 I’m looking to collaborate on Open Source Projects
@@ -14,8 +14,11 @@ I'm a second-year undergraduate from Sri Lanka. Passionate in tech, scientific t
 [![Twitter Badge](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/MadhawaMonara)
 
 
+
 <div>
   <img height="225" src="https://github-readme-stats.vercel.app/api?username=madhawa97&show_icons=true&theme=nord&include_all_commits=true&count_private=true"/>
   <img height="225" src="https://github-readme-stats.vercel.app/api/top-langs/?username=madhawa97&theme=nord&hide=jupyter%20notebook,hack"/>
 </div>
+
+[![Visitor Count](https://komarev.com/ghpvc/?username=madhawa97&style=for-the-badge&color=blueviolet)]()
 
