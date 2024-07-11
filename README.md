@@ -2,14 +2,14 @@
 
 ### Hello, I'm Madhawa 👋
 
-I'm a passionate second year undergraduate from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
+I'm a passionate final year undergraduate from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
 
-- 🌱 Currently learning Front-end Frameworks.
 - 👯 Looking to collaborate on Open Source Projects.
 - 🎓 Following National Diploma in Technology in IT (current GPA: 3.98/4.0) at Institute of Technology University of Moratuwa.
+- 👨🏻‍💻 Completed internships at WSO2 and Emojot.
 - 💬 You can reach me via Twitter or LinkedIn.
 
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhawamm/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhawa97/)
 [![Medium Badge](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@madhawa97)
 [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/10317115/madhawa-monarawila)
 [![Hackerrank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/MadhawaMonara)
