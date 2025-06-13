@@ -2,11 +2,12 @@
 
 ### Hello, I'm Madhawa 👋
 
-I'm a passionate final year undergraduate from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
+I'm a SE from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
 
+- 💼 Working as a SE at [Innodata](https://innodata.com/).
 - 👯 Looking to collaborate on Open Source Projects.
-- 🎓 Following National Diploma in Technology in IT (current GPA: 3.98/4.0) at Institute of Technology University of Moratuwa.
-- 👨🏻‍💻 Completed internships at WSO2 and Emojot.
+- 🎓 Completed NDT in IT (GPA: 3.98/4.0) at Institute of Technology University of Moratuwa.
+- 👨🏻‍💻 Completed internships at [WSO2](https://wso2.com/) and [Emojot](https://emojot.com/).
 - 💬 You can reach me via Twitter or LinkedIn.
 
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/madhawa97/)
