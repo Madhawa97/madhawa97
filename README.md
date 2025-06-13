@@ -2,7 +2,7 @@
 
 ### Hello, I'm Madhawa 👋
 
-I'm a SE from Sri Lanka. Enthusiastic of tech, scientific thinking and open source development.
+I'm enthusiastic about tech, scientific thinking and open source development.
 
 - 💼 Working as a SE at [Innodata](https://innodata.com/).
 - 👯 Looking to collaborate on Open Source Projects.
